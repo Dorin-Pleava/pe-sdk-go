@@ -9,7 +9,7 @@ import (
 	"github.com/go-openapi/runtime"
 	httptransport "github.com/go-openapi/runtime/client"
 	"github.com/go-openapi/strfmt"
-	"github.com/puppetlabs/pe-sdk-go/api/puppet-access/client/operations"
+	"github.com/dorin-pleava/pe-sdk-go/api/puppet-access/client/operations"
 )
 
 // Default puppet access HTTP client.
